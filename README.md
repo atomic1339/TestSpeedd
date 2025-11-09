@@ -10,4 +10,4 @@ untuk install nya
 - ls
 - cd TestSpeedd
 - python TestSpeed.py
-![Deskripsi gambar]Screenshot_20251109-175159.png
+Screenshot_20251109-175159.png
